@@ -9,6 +9,12 @@
 		{
 			"matchDepTypes": ["devDependencies"],
 			"automerge": true
+		},
+		{
+  		"lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true
+  		}
 		}
 	],
 	"platformAutomerge": true
