@@ -1,0 +1,12 @@
+name = "groundwire"
+main = "src/index.js"
+compatibility_date = "2023-11-21"
+account_id = "8d54d3d908d8e050fb781d3c36265501"
+
+# [vars]
+# CURRENCY = 'CAD'
+# VOIP_USERNAME = 'XXXXXX@XXXX.com'
+# Define VOIP_PASSWORD via `wrangler secret put VOIP_PASSWORD`
+
+[placement]
+mode = "smart"
